@@ -1,0 +1,8 @@
+{
+  "name": "NetGuardian AI",
+  "description": "Plataforma inteligente de monitoramento e otimização de consumo de consumo de internet de alta fidelidade para Angola e África.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
